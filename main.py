@@ -30,9 +30,9 @@ except selenium.common.exceptions.WebDriverException:
 	print("Chromedriver is Not Reachable, Please Restart.")
 
 # My Student Info
-studentID = 2535779
-studentEmail = "2535779@students.myips.org"
-studentPassword = 5/6/2004
+studentID = 0 
+studentEmail = "example@example.com"
+studentPassword = "examplepassword" 	
 
 # Startup Message
 def applicationStart():
